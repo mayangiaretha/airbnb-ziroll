@@ -1,0 +1,17 @@
+[
+  {
+    "joker": "fake",
+    "comedian": "hart",
+    "country": "Cananda"
+  },
+  {
+    "joker": "wierd",
+    "comedian": "rock",
+    "country": "uganda"
+  },
+  {
+    "joker": "not nice",
+    "comedian": "chris",
+    "country": "usa"
+  }
+]
